@@ -1,0 +1,10 @@
+# FreeCAD backup and temporary files
+*.FCStd.bak
+*~
+
+# Operating system generated files
+.DS_Store
+Thumbs.db
+
+# Preview or temporary render folders
+/previews/
